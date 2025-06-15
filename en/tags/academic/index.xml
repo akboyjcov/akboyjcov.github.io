@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic | alexboytsov</title>
+    <link>https://akboyjcov.github.io/en/tags/academic/</link>
+      <atom:link href="https://akboyjcov.github.io/en/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akboyjcov.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Academic</title>
+      <link>https://akboyjcov.github.io/en/tags/academic/</link>
+    </image>
+    
+    <item>
+      <title>Scientific Computing in the Cloud</title>
+      <link>https://akboyjcov.github.io/en/publication/05/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://akboyjcov.github.io/en/publication/05/</guid>
+      <description>&lt;h2 id=&#34;why-cloud-computing&#34;&gt;Why Cloud Computing?&lt;/h2&gt;
+&lt;p&gt;Modern scientific problems demand more and more resources: climate simulations, protein modeling, large-scale data processing. Traditional local machines often fall short. Cloud technologies enable:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📈 Scaling resources as needed&lt;/li&gt;
+&lt;li&gt;💻 Running computations in parallel and on clusters&lt;/li&gt;
+&lt;li&gt;🌍 Working from anywhere in the world&lt;/li&gt;
+&lt;li&gt;🔐 Storing and organizing data in centralized access&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;advantages-of-the-cloud&#34;&gt;Advantages of the Cloud&lt;/h2&gt;
+&lt;h3 id=&#34;1-flexibility&#34;&gt;1. Flexibility&lt;/h3&gt;
+&lt;p&gt;You can choose how many CPU cores, memory, or GPUs you need — and pay only for what you use.&lt;/p&gt;
+&lt;h3 id=&#34;2-collaboration&#34;&gt;2. Collaboration&lt;/h3&gt;
+&lt;p&gt;Cloud platforms support collaborative editing, code publishing, model execution, and results storage.&lt;/p&gt;
+&lt;h3 id=&#34;3-tool-compatibility&#34;&gt;3. Tool Compatibility&lt;/h3&gt;
+&lt;p&gt;You can launch environments with Jupyter, RStudio, Docker, TensorFlow, MATLAB, Julia, PyTorch, and more.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;popular-cloud-platforms&#34;&gt;Popular Cloud Platforms&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Google Colab&lt;/strong&gt; — free, ideal for students, ML, Python, and GPU usage&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Amazon Web Services (AWS)&lt;/strong&gt; — enterprise-grade, suitable for HPC&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Microsoft Azure&lt;/strong&gt; — integrates well with Windows and academic programs&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Paperspace, Gradient, RunPod&lt;/strong&gt; — good for model training and visualization&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Binder / JupyterHub&lt;/strong&gt; — cloud-based execution of Jupyter notebooks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;use-cases&#34;&gt;Use Cases&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🔬 &lt;strong&gt;Bioinformatics&lt;/strong&gt; — sequencing and genome analysis&lt;/li&gt;
+&lt;li&gt;🌡 &lt;strong&gt;Climatology&lt;/strong&gt; — weather modeling and forecasting&lt;/li&gt;
+&lt;li&gt;🧪 &lt;strong&gt;Chemistry&lt;/strong&gt; — reaction simulations and molecular dynamics&lt;/li&gt;
+&lt;li&gt;🤖 &lt;strong&gt;AI&lt;/strong&gt; — model training and evaluation&lt;/li&gt;
+&lt;li&gt;🧮 &lt;strong&gt;Mathematics&lt;/strong&gt; — numerical computation and symbolic algebra&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;how-to-get-started&#34;&gt;How to Get Started?&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Sign up on a platform (e.g., Google Colab or Kaggle)&lt;/li&gt;
+&lt;li&gt;Create a new project or notebook&lt;/li&gt;
+&lt;li&gt;Import necessary libraries and datasets&lt;/li&gt;
+&lt;li&gt;Run your code, save results, and share your work&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;No need to set up a private cluster — just start with ready-made solutions.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Scientific computing in the cloud is no longer a vision of the future — it’s a working reality. It provides access to resources once limited to supercomputing labs. The cloud empowers researchers to experiment, speed up analysis, and tackle complex problems without technical barriers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week June 3–9</title>
+      <link>https://akboyjcov.github.io/en/post/03/</link>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://akboyjcov.github.io/en/post/03/</guid>
+      <description>&lt;h3 id=&#34;-formulas-and-code&#34;&gt;🔹 Formulas and Code&lt;/h3&gt;
+&lt;p&gt;It was a busy week. In &lt;strong&gt;mathematical logic&lt;/strong&gt;, we dove into normal forms of logical expressions and learned to build truth tables. I especially enjoyed finding counterexamples — it really sharpened my analytical thinking.&lt;/p&gt;
+&lt;p&gt;During &lt;strong&gt;programming classes&lt;/strong&gt;, we worked on a mini-project: a phonebook with functions for adding, deleting, and searching contacts. It reminded me how useful dictionaries and data structures can be.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;At the same time, I&amp;rsquo;m preparing for a calculus colloquium — still a lot of calculations ahead.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific Programming Languages</title>
+      <link>https://akboyjcov.github.io/en/publication/04/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://akboyjcov.github.io/en/publication/04/</guid>
+      <description>&lt;h2 id=&#34;what-is-scientific-programming&#34;&gt;What Is Scientific Programming?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Scientific programming&lt;/strong&gt; refers to the use of programming languages to solve problems in the fields of natural sciences, engineering, mathematics, economics, medicine, and other applied disciplines.&lt;/p&gt;
+&lt;p&gt;Common tasks in scientific programming include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Numerical modeling (e.g., solving differential equations)&lt;/li&gt;
+&lt;li&gt;Processing large data sets (e.g., time series, images)&lt;/li&gt;
+&lt;li&gt;Statistical analysis and visualization&lt;/li&gt;
+&lt;li&gt;Simulations and experimental calculations&lt;/li&gt;
+&lt;li&gt;Machine learning and optimization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;most-common-scientific-programming-languages&#34;&gt;Most Common Scientific Programming Languages&lt;/h2&gt;
+&lt;p&gt;Below are the most widely used languages in the scientific community.&lt;/p&gt;
+&lt;h3 id=&#34;-python&#34;&gt;🔶 Python&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;The most popular language for science and data.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rich ecosystem: NumPy, SciPy, Pandas, Matplotlib, Scikit-learn&lt;/li&gt;
+&lt;li&gt;Easy to learn and widely used in ML and scientific visualization&lt;/li&gt;
+&lt;li&gt;Great for prototyping, data analysis, and automation&lt;/li&gt;
+&lt;li&gt;Downside: relatively low speed (can be mitigated with JIT and C extensions)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📌 Ideal for: physics, biology, economics, medicine, AI&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-matlab&#34;&gt;🔷 MATLAB&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;A commercial language focused on math and visualization.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Built-in tools for linear algebra, signal processing, control systems&lt;/li&gt;
+&lt;li&gt;Convenient syntax for matrix operations and numerical methods&lt;/li&gt;
+&lt;li&gt;Widely used in engineering, robotics, automation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📌 Ideal for: engineering simulations, signal processing, control systems&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-julia&#34;&gt;🔶 Julia&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;A modern language designed specifically for scientific computing.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MATLAB-like syntax with C-like performance&lt;/li&gt;
+&lt;li&gt;Built-in support for parallel and distributed computing&lt;/li&gt;
+&lt;li&gt;Rapidly growing in scientific and research communities&lt;/li&gt;
+&lt;li&gt;Great for high-performance simulations and numerical modeling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📌 Ideal for: numerical models, simulations, mathematical analysis&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-r&#34;&gt;🔷 R&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;A language for statistics, visualization, and data analysis.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Extensive support for statistical models, regressions, hypothesis testing&lt;/li&gt;
+&lt;li&gt;Powerful graphics with &lt;code&gt;ggplot2&lt;/code&gt; and other packages&lt;/li&gt;
+&lt;li&gt;Widely used in bioinformatics, economics, and social sciences&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📌 Ideal for: statistics, bioinformatics, sociology, ecology&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-fortran&#34;&gt;🔶 Fortran&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;The classic language for numerical computing.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Still used in performance-critical applications&lt;/li&gt;
+&lt;li&gt;Common in hydrodynamics, climate modeling, and aerodynamics&lt;/li&gt;
+&lt;li&gt;Modern standards (Fortran 90/2003) support modules, OOP, parallelism&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📌 Ideal for: physics, fluid dynamics, legacy scientific code&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-cc&#34;&gt;🔷 C/C++&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Low-level, high-performance programming languages.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Used when precise control over memory and speed is needed&lt;/li&gt;
+&lt;li&gt;Foundation for many scientific libraries (including Python extensions)&lt;/li&gt;
+&lt;li&gt;Common in embedded systems, numerical libraries, and simulators&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📌 Ideal for: computational physics, simulators, language interoperability&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;how-to-choose-a-language&#34;&gt;How to Choose a Language?&lt;/h2&gt;
+&lt;p&gt;Language choice depends on your goals:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Criterion&lt;/th&gt;
+          &lt;th&gt;Recommendation&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ease of learning&lt;/td&gt;
+          &lt;td&gt;Python, MATLAB&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;High performance&lt;/td&gt;
+          &lt;td&gt;Julia, C++, Fortran&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Statistics &amp;amp; visualization&lt;/td&gt;
+          &lt;td&gt;R, Python&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Commercial development&lt;/td&gt;
+          &lt;td&gt;MATLAB, Python&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Open science &amp;amp; publications&lt;/td&gt;
+          &lt;td&gt;Python, Julia, R&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Beyond choosing the language, it’s important to master its &lt;strong&gt;ecosystem&lt;/strong&gt;: libraries, visualization tools, package managers, and version control systems.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;A modern researcher must not only know the math but also be fluent in programming. The right tool can significantly improve the speed of solving problems, the quality of your research, and the flexibility of your approaches.&lt;/p&gt;
+&lt;p&gt;📌 &lt;strong&gt;Tip:&lt;/strong&gt; Start with Python as a universal language. Later, add Julia (for speed) or R (for statistics) depending on your needs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week May 27 – June 2</title>
+      <link>https://akboyjcov.github.io/en/post/02/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://akboyjcov.github.io/en/post/02/</guid>
+      <description>&lt;h3 id=&#34;-retake-week&#34;&gt;🔹 Retake Week&lt;/h3&gt;
+&lt;p&gt;The main event of the week was the &lt;strong&gt;make-up test in Operating Systems&lt;/strong&gt;. I failed the first attempt, but this time I prepared thoroughly: reviewed topics on schedulers, file systems, and thread synchronization. Finally passed! 💪&lt;/p&gt;
+&lt;p&gt;In addition, we practiced working with the Linux terminal: explored commands like &lt;code&gt;top&lt;/code&gt;, &lt;code&gt;ps&lt;/code&gt;, &lt;code&gt;kill&lt;/code&gt;, &lt;code&gt;chmod&lt;/code&gt;. I felt the real “system magic” — now I understand how things work under the hood.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creating Presentations From Structure to Design</title>
+      <link>https://akboyjcov.github.io/en/publication/03/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://akboyjcov.github.io/en/publication/03/</guid>
+      <description>&lt;h2 id=&#34;why-are-good-presentations-important&#34;&gt;Why Are Good Presentations Important?&lt;/h2&gt;
+&lt;p&gt;A presentation is not just a set of slides. It&amp;rsquo;s a tool that visually supports your speech. A well-designed presentation:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Grabs and maintains audience attention&lt;/li&gt;
+&lt;li&gt;Helps structure your narrative&lt;/li&gt;
+&lt;li&gt;Makes complex ideas easier to understand&lt;/li&gt;
+&lt;li&gt;Strengthens arguments and builds trust&lt;/li&gt;
+&lt;li&gt;Makes you feel more confident during your talk&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;step-1-define-your-goal&#34;&gt;Step 1: Define Your Goal&lt;/h2&gt;
+&lt;p&gt;Before creating slides, ask yourself:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Who is your audience?&lt;/li&gt;
+&lt;li&gt;What should they understand, feel, or remember?&lt;/li&gt;
+&lt;li&gt;What is the key message you want to convey?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This will determine the style, structure, and visual language of your slides.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;step-2-build-a-logical-structure&#34;&gt;Step 2: Build a Logical Structure&lt;/h2&gt;
+&lt;p&gt;A strong presentation always follows a clear structure:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Topic overview&lt;/li&gt;
+&lt;li&gt;Goal and relevance&lt;/li&gt;
+&lt;li&gt;Agenda&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Main Body&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Theoretical background&lt;/li&gt;
+&lt;li&gt;Analysis, examples, comparisons&lt;/li&gt;
+&lt;li&gt;Data and visualizations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Key takeaways&lt;/li&gt;
+&lt;li&gt;Recommendations&lt;/li&gt;
+&lt;li&gt;Perspectives / open questions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Each slide should serve a specific idea and avoid information overload.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;step-3-follow-visual-design-principles&#34;&gt;Step 3: Follow Visual Design Principles&lt;/h2&gt;
+&lt;h3 id=&#34;minimalism&#34;&gt;Minimalism&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;One idea per slide&lt;/li&gt;
+&lt;li&gt;Max 7 lines of text&lt;/li&gt;
+&lt;li&gt;Large headings and readable fonts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;contrast&#34;&gt;Contrast&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Clear contrast between text and background&lt;/li&gt;
+&lt;li&gt;Use color accents, bold text, and highlights&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;alignment&#34;&gt;Alignment&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Center or use a visual grid&lt;/li&gt;
+&lt;li&gt;Avoid misaligned elements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;visualization&#34;&gt;Visualization&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Use charts, diagrams, icons, and images&lt;/li&gt;
+&lt;li&gt;Avoid overly complex tables or long lists&lt;/li&gt;
+&lt;li&gt;Use metaphors (e.g. bridges, ladders, compasses) to illustrate concepts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;step-4-choose-the-right-tool&#34;&gt;Step 4: Choose the Right Tool&lt;/h2&gt;
+&lt;p&gt;Popular tools for creating presentations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Microsoft PowerPoint&lt;/strong&gt; — classic tool for offline use&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Google Slides&lt;/strong&gt; — great for collaboration and online access&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Canva&lt;/strong&gt; — stylish templates and drag-and-drop design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prezi&lt;/strong&gt; — dynamic and animated storytelling format&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Marp / Reveal.js / Deckset&lt;/strong&gt; — Markdown-based tools for developers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;step-5-prepare-for-delivery&#34;&gt;Step 5: Prepare for Delivery&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Rehearse your talk at least 2–3 times&lt;/li&gt;
+&lt;li&gt;Prepare brief talking points (don’t read from slides!)&lt;/li&gt;
+&lt;li&gt;Time yourself: 1 minute ≈ 1 slide&lt;/li&gt;
+&lt;li&gt;Plan transitions between sections&lt;/li&gt;
+&lt;li&gt;Remember: audience attention drops after 10 minutes — vary the pace and add emphasis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;common-mistakes&#34;&gt;Common Mistakes&lt;/h2&gt;
+&lt;p&gt;🚫 Too much text&lt;br&gt;
+🚫 Small or hard-to-read fonts&lt;br&gt;
+🚫 Distracting colors or busy backgrounds&lt;br&gt;
+🚫 No logical flow between slides&lt;br&gt;
+🚫 Reading from the screen instead of speaking naturally&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;A presentation is the visual framework of your talk. A good presentation is not just beautiful — it’s &lt;strong&gt;structured, logical, and easy to follow&lt;/strong&gt;. The simpler, the better.&lt;/p&gt;
+&lt;p&gt;Don’t try to cram everything onto the slides — they should support your speech, not replace it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week May 20–26</title>
+      <link>https://akboyjcov.github.io/en/post/01/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://akboyjcov.github.io/en/post/01/</guid>
+      <description>&lt;h3 id=&#34;-a-week-of-discoveries&#34;&gt;🔹 A Week of Discoveries&lt;/h3&gt;
+&lt;p&gt;The first half of the week was all about &lt;strong&gt;programming practice&lt;/strong&gt;. We worked on a small Python project — a queue simulation. Focused on functions, lists, and input/output. It was a good opportunity to strengthen skills in loops and error handling.&lt;/p&gt;
+&lt;p&gt;In &lt;strong&gt;calculus classes&lt;/strong&gt;, we discussed limits and the properties of continuity. A bit challenging, but the logic of the course is slowly starting to make sense.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I realized: the more problems you solve, the less intimidating they become.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Markdown Markup Language</title>
+      <link>https://akboyjcov.github.io/en/publication/02/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://akboyjcov.github.io/en/publication/02/</guid>
+      <description>&lt;h2 id=&#34;what-is-markdown&#34;&gt;What Is Markdown?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; is a lightweight markup language designed for fast and easy text formatting. Its goal is to be readable in plain text form while being easily converted to HTML, PDF, or other formats.&lt;/p&gt;
+&lt;p&gt;It was created by John Gruber and Aaron Swartz in 2004 and has since become a standard for writing technical documentation, README files, blogs, scientific notes, and even slides.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;where-is-markdown-used&#34;&gt;Where Is Markdown Used?&lt;/h2&gt;
+&lt;p&gt;Markdown is widely used in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt; — README files, documentation, comments&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jupyter Notebook&lt;/strong&gt; — text cells&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hugo / Jekyll / static site generators&lt;/strong&gt; — writing blog posts&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Notion, Obsidian, VS Code&lt;/strong&gt; — notes and personal wikis&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blogging platforms and CMS&lt;/strong&gt; — as the primary input format&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scientific papers and reports&lt;/strong&gt; — thanks to LaTeX support&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;benefits-of-markdown&#34;&gt;Benefits of Markdown&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ &lt;strong&gt;Simple syntax&lt;/strong&gt; — easy to learn in 15 minutes&lt;/li&gt;
+&lt;li&gt;✅ &lt;strong&gt;Cross-platform&lt;/strong&gt; — works in any text editor&lt;/li&gt;
+&lt;li&gt;✅ &lt;strong&gt;Git-friendly&lt;/strong&gt; — ideal for version control&lt;/li&gt;
+&lt;li&gt;✅ &lt;strong&gt;Flexible&lt;/strong&gt; — suitable for documentation, blogs, and books&lt;/li&gt;
+&lt;li&gt;✅ &lt;strong&gt;Extensible&lt;/strong&gt; — supports plugins, tables, diagrams&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;core-features&#34;&gt;Core Features&lt;/h2&gt;
+&lt;p&gt;Here&amp;rsquo;s a quick overview of Markdown&amp;rsquo;s key features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Headings&lt;/strong&gt; — using &lt;code&gt;#&lt;/code&gt;, &lt;code&gt;##&lt;/code&gt;, &lt;code&gt;###&lt;/code&gt;, etc.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Emphasis&lt;/strong&gt; — &lt;em&gt;italic&lt;/em&gt;, &lt;strong&gt;bold&lt;/strong&gt;, &lt;del&gt;strikethrough&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lists&lt;/strong&gt; — unordered (&lt;code&gt;-&lt;/code&gt;, &lt;code&gt;*&lt;/code&gt;) and ordered (&lt;code&gt;1.&lt;/code&gt;, &lt;code&gt;2.&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Links and Images&lt;/strong&gt; — &lt;code&gt;[text](url)&lt;/code&gt; and &lt;code&gt;![alt](image)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blockquotes&lt;/strong&gt; — &lt;code&gt;&amp;gt; Quote&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Code&lt;/strong&gt; — &lt;code&gt;\&lt;/code&gt;inline code`` and code blocks using indentation or triple backticks&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tables&lt;/strong&gt; — with &lt;code&gt;|&lt;/code&gt; and &lt;code&gt;---&lt;/code&gt; separators&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;markdown-extensions&#34;&gt;Markdown Extensions&lt;/h2&gt;
+&lt;p&gt;Different platforms offer their own extensions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GitHub Flavored Markdown (GFM)&lt;/strong&gt; — checkboxes, tables, syntax highlighting&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MathJax / KaTeX&lt;/strong&gt; — LaTeX-style math formulas (&lt;code&gt;$E=mc^2$&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mermaid&lt;/strong&gt; — embedded diagrams and flowcharts&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PlantUML&lt;/strong&gt; — inline UML diagram support&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;tools-for-working-with-markdown&#34;&gt;Tools for Working with Markdown&lt;/h2&gt;
+&lt;p&gt;Markdown can be used in any plain text editor, but there are also dedicated tools:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Visual Studio Code&lt;/strong&gt; — with plugins for preview and autocomplete&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Typora&lt;/strong&gt; — a WYSIWYG Markdown editor&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MarkText, Obsidian, Zettlr&lt;/strong&gt; — powerful tools for note-taking&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pandoc&lt;/strong&gt; — converts Markdown to PDF, DOCX, HTML, and more&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Markdown is the perfect tool for anyone who wants to structure text clearly and efficiently. It requires no knowledge of HTML or CSS, and its versatility makes it suitable for everything from academic writing to corporate wikis.&lt;/p&gt;
+&lt;p&gt;If you write articles, maintain a blog, prepare documentation, or just want to organize your notes — Markdown will be your essential assistant.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Continuous Integration and Continuous Deployment (CI/CD)</title>
+      <link>https://akboyjcov.github.io/en/publication/01/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://akboyjcov.github.io/en/publication/01/</guid>
+      <description>&lt;h2 id=&#34;what-is-cicd&#34;&gt;What is CI/CD?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;CI/CD&lt;/strong&gt; refers to modern software development practices aimed at automating and accelerating the application lifecycle. The acronym stands for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;CI&lt;/strong&gt; — &lt;em&gt;Continuous Integration&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CD&lt;/strong&gt; — &lt;em&gt;Continuous Delivery&lt;/em&gt; or &lt;em&gt;Continuous Deployment&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The goal of CI/CD is to simplify and automate the process of developing, testing, and releasing new versions of software — with minimal manual effort.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;continuous-integration-ci&#34;&gt;Continuous Integration (CI)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Continuous Integration&lt;/strong&gt; means that developers regularly merge their changes into the main branch of the repository. Each commit triggers automatic processes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Project build&lt;/li&gt;
+&lt;li&gt;Unit tests&lt;/li&gt;
+&lt;li&gt;Static code analysis&lt;/li&gt;
+&lt;li&gt;Code style checks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This allows problems to be detected early — not at the release stage.&lt;/p&gt;
+&lt;h3 id=&#34;benefits-of-ci&#34;&gt;Benefits of CI:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Rapid detection of bugs&lt;/li&gt;
+&lt;li&gt;Fewer merge conflicts&lt;/li&gt;
+&lt;li&gt;Confidence in application stability after each change&lt;/li&gt;
+&lt;li&gt;Improved code quality&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;continuous-delivery-and-deployment-cd&#34;&gt;Continuous Delivery and Deployment (CD)&lt;/h2&gt;
+&lt;p&gt;After successful integration, the next stage is &lt;strong&gt;Continuous Delivery&lt;/strong&gt; — the application is automatically prepared for deployment at any moment. This includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Building a release version&lt;/li&gt;
+&lt;li&gt;Running integration and end-to-end tests&lt;/li&gt;
+&lt;li&gt;Creating an artifact (e.g., Docker image)&lt;/li&gt;
+&lt;li&gt;Preparing release notes and updates&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;When &lt;strong&gt;Continuous Deployment&lt;/strong&gt; is added, the release is deployed to production automatically — &lt;em&gt;without human intervention&lt;/em&gt; — if all checks pass.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;components-of-a-cicd-pipeline&#34;&gt;Components of a CI/CD Pipeline&lt;/h2&gt;
+&lt;p&gt;A modern CI/CD pipeline consists of several automated stages:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Source Control&lt;/strong&gt; — GitHub, GitLab, Bitbucket&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CI Server&lt;/strong&gt; — GitHub Actions, GitLab CI, Jenkins, CircleCI&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Build &amp;amp; Test&lt;/strong&gt; — Make, Gradle, npm, pytest&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Security Scanning &amp;amp; Linting&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Artifact Creation&lt;/strong&gt; — Docker, archives, binaries&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deployment&lt;/strong&gt; — Kubernetes, Helm, Ansible, Terraform&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Each stage is configured as part of a pipeline, usually described in YAML files.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;cicd-in-practice&#34;&gt;CI/CD in Practice&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;In web development, each new feature is automatically tested and deployed&lt;/li&gt;
+&lt;li&gt;In mobile development, APK/IPA builds are triggered after a push to &lt;code&gt;main&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Python libraries can be auto-published to PyPI on commit&lt;/li&gt;
+&lt;li&gt;In scientific computing, CI can automate experiments and result updates&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;why-implement-cicd&#34;&gt;Why Implement CI/CD?&lt;/h2&gt;
+&lt;p&gt;CI/CD helps to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reduce time between idea and release&lt;/li&gt;
+&lt;li&gt;Eliminate human errors in builds and deployments&lt;/li&gt;
+&lt;li&gt;Improve team collaboration&lt;/li&gt;
+&lt;li&gt;Reduce the burden on developers and DevOps engineers&lt;/li&gt;
+&lt;li&gt;Ensure stable releases and allow safe rollbacks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;CI/CD isn’t just a trendy buzzword — it’s a foundation of modern development. Even small projects benefit from automation: you’ll find bugs faster, release more often, and gain confidence in your code.&lt;/p&gt;
+&lt;p&gt;If you haven’t tried CI/CD yet, start small: automate your builds and tests. Soon, you&amp;rsquo;ll see how much more efficient development becomes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

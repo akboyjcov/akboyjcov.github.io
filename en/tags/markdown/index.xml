@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown | alexboytsov</title>
+    <link>https://akboyjcov.github.io/en/tags/markdown/</link>
+      <atom:link href="https://akboyjcov.github.io/en/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markdown</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akboyjcov.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Markdown</title>
+      <link>https://akboyjcov.github.io/en/tags/markdown/</link>
+    </image>
+    
+    <item>
+      <title>Personal Academic Website with Hugo Academic</title>
+      <link>https://akboyjcov.github.io/en/project/hugo/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://akboyjcov.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;why-researchers-need-a-personal-website&#34;&gt;Why Researchers Need a Personal Website&lt;/h2&gt;
+&lt;p&gt;In the age of digital science, having your own website is not just a bonus — it’s a necessity. A personal academic website allows you to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Showcase your portfolio of publications, projects, and presentations&lt;/li&gt;
+&lt;li&gt;Increase the visibility of your research and simplify access to your work&lt;/li&gt;
+&lt;li&gt;Build a professional image and establish a central point of online presence&lt;/li&gt;
+&lt;li&gt;Facilitate communication with colleagues, students, and funding organizations&lt;/li&gt;
+&lt;li&gt;Publicly document progress, teaching, and new ideas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;One of the most convenient tools for creating such a site is &lt;strong&gt;Hugo Academic&lt;/strong&gt; — a theme for the Hugo static site generator, designed specifically for academics and researchers.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-is-hugo-academic&#34;&gt;What Is Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Hugo Academic&lt;/strong&gt; (now rebranded as &lt;a href=&#34;https://hugoscholar.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Scholar&lt;/a&gt;) is a specialized theme tailored for academic portfolios. It includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sections for publications, lectures, projects, blog posts, and a biography&lt;/li&gt;
+&lt;li&gt;Support for automatic import from Google Scholar or BibTeX&lt;/li&gt;
+&lt;li&gt;Flexible visual customization (header, themes, icons, profiles)&lt;/li&gt;
+&lt;li&gt;Full support for multilingual content&lt;/li&gt;
+&lt;li&gt;Integration with GitHub, ORCID, LinkedIn, and other platforms&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Its main strength is simplicity — all data is stored in YAML/Markdown files, making it easy to update content via Git or directly on GitHub.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;key-sections-of-an-academic-website&#34;&gt;Key Sections of an Academic Website&lt;/h2&gt;
+&lt;p&gt;When building a personal site with Hugo Academic, it’s important to structure your information clearly. Here are the key sections:&lt;/p&gt;
+&lt;h3 id=&#34;-about&#34;&gt;🧑‍🎓 About&lt;/h3&gt;
+&lt;p&gt;A short overview of your professional activity: where you work, your research interests, and what you do. Often includes a photo, contact details, and social media links.&lt;/p&gt;
+&lt;h3 id=&#34;-publications&#34;&gt;📄 Publications&lt;/h3&gt;
+&lt;p&gt;Can be added manually or synced from Google Scholar or BibTeX. Each entry may contain an abstract, PDF, DOI, and a link to the original source.&lt;/p&gt;
+&lt;h3 id=&#34;-courses-and-teaching&#34;&gt;📚 Courses and Teaching&lt;/h3&gt;
+&lt;p&gt;Useful for educators. You can provide information about courses you teach, syllabi, and schedules.&lt;/p&gt;
+&lt;h3 id=&#34;-projects&#34;&gt;💼 Projects&lt;/h3&gt;
+&lt;p&gt;A place to present your scientific or applied projects. You can attach repository links, presentations, or posters.&lt;/p&gt;
+&lt;h3 id=&#34;-talks-and-conferences&#34;&gt;🗣 Talks and Conferences&lt;/h3&gt;
+&lt;p&gt;Use this section to list presentations, seminars, webinars, and other academic talks with dates, slides, and locations.&lt;/p&gt;
+&lt;h3 id=&#34;-blog-or-notes&#34;&gt;✍️ Blog or Notes&lt;/h3&gt;
+&lt;p&gt;Optional but helpful for sharing advice, publications, ideas, or breaking down complex topics.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;advantages-of-hugo-academic&#34;&gt;Advantages of Hugo Academic&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ &lt;strong&gt;Fast loading and high performance&lt;/strong&gt; — thanks to its static nature&lt;/li&gt;
+&lt;li&gt;✅ &lt;strong&gt;Fully autonomous&lt;/strong&gt; — can be hosted on GitHub Pages, Netlify, Render, etc.&lt;/li&gt;
+&lt;li&gt;✅ &lt;strong&gt;Scalable&lt;/strong&gt; — works well for both PhD students and professors with dozens of publications&lt;/li&gt;
+&lt;li&gt;✅ &lt;strong&gt;Minimal technical requirements&lt;/strong&gt; — no web development knowledge needed&lt;/li&gt;
+&lt;li&gt;✅ &lt;strong&gt;Community and documentation&lt;/strong&gt; — plenty of templates, guides, and forums available&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;is-hugo-academic-right-for-you&#34;&gt;Is Hugo Academic Right for You?&lt;/h2&gt;
+&lt;p&gt;It’s a great choice if you:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Are involved in research and want to build an online presence&lt;/li&gt;
+&lt;li&gt;Write papers, participate in conferences, and want a structured portfolio&lt;/li&gt;
+&lt;li&gt;Want to share your knowledge through blogging or notes&lt;/li&gt;
+&lt;li&gt;Plan to apply for grants, internships, or collaborations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Then Hugo Academic is worth your attention.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Your personal academic website is your digital office. It helps you communicate what you do to the world and serves as a business card for colleagues, journals, and potential employers. With Hugo Academic, you can build such a site in just one day — from scratch and with minimal effort.&lt;/p&gt;
+&lt;p&gt;If you haven’t taken this step yet — now is the perfect time to start.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week June 3–9</title>
+      <link>https://akboyjcov.github.io/en/post/03/</link>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://akboyjcov.github.io/en/post/03/</guid>
+      <description>&lt;h3 id=&#34;-formulas-and-code&#34;&gt;🔹 Formulas and Code&lt;/h3&gt;
+&lt;p&gt;It was a busy week. In &lt;strong&gt;mathematical logic&lt;/strong&gt;, we dove into normal forms of logical expressions and learned to build truth tables. I especially enjoyed finding counterexamples — it really sharpened my analytical thinking.&lt;/p&gt;
+&lt;p&gt;During &lt;strong&gt;programming classes&lt;/strong&gt;, we worked on a mini-project: a phonebook with functions for adding, deleting, and searching contacts. It reminded me how useful dictionaries and data structures can be.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;At the same time, I&amp;rsquo;m preparing for a calculus colloquium — still a lot of calculations ahead.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week May 27 – June 2</title>
+      <link>https://akboyjcov.github.io/en/post/02/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://akboyjcov.github.io/en/post/02/</guid>
+      <description>&lt;h3 id=&#34;-retake-week&#34;&gt;🔹 Retake Week&lt;/h3&gt;
+&lt;p&gt;The main event of the week was the &lt;strong&gt;make-up test in Operating Systems&lt;/strong&gt;. I failed the first attempt, but this time I prepared thoroughly: reviewed topics on schedulers, file systems, and thread synchronization. Finally passed! 💪&lt;/p&gt;
+&lt;p&gt;In addition, we practiced working with the Linux terminal: explored commands like &lt;code&gt;top&lt;/code&gt;, &lt;code&gt;ps&lt;/code&gt;, &lt;code&gt;kill&lt;/code&gt;, &lt;code&gt;chmod&lt;/code&gt;. I felt the real “system magic” — now I understand how things work under the hood.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week May 20–26</title>
+      <link>https://akboyjcov.github.io/en/post/01/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://akboyjcov.github.io/en/post/01/</guid>
+      <description>&lt;h3 id=&#34;-a-week-of-discoveries&#34;&gt;🔹 A Week of Discoveries&lt;/h3&gt;
+&lt;p&gt;The first half of the week was all about &lt;strong&gt;programming practice&lt;/strong&gt;. We worked on a small Python project — a queue simulation. Focused on functions, lists, and input/output. It was a good opportunity to strengthen skills in loops and error handling.&lt;/p&gt;
+&lt;p&gt;In &lt;strong&gt;calculus classes&lt;/strong&gt;, we discussed limits and the properties of continuity. A bit challenging, but the logic of the course is slowly starting to make sense.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I realized: the more problems you solve, the less intimidating they become.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

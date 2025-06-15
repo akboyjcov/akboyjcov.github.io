@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Blox | alexboytsov</title>
+    <link>https://akboyjcov.github.io/en/tags/hugo-blox/</link>
+      <atom:link href="https://akboyjcov.github.io/en/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Blox</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akboyjcov.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Hugo Blox</title>
+      <link>https://akboyjcov.github.io/en/tags/hugo-blox/</link>
+    </image>
+    
+    <item>
+      <title>Study Week June 3–9</title>
+      <link>https://akboyjcov.github.io/en/post/03/</link>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://akboyjcov.github.io/en/post/03/</guid>
+      <description>&lt;h3 id=&#34;-formulas-and-code&#34;&gt;🔹 Formulas and Code&lt;/h3&gt;
+&lt;p&gt;It was a busy week. In &lt;strong&gt;mathematical logic&lt;/strong&gt;, we dove into normal forms of logical expressions and learned to build truth tables. I especially enjoyed finding counterexamples — it really sharpened my analytical thinking.&lt;/p&gt;
+&lt;p&gt;During &lt;strong&gt;programming classes&lt;/strong&gt;, we worked on a mini-project: a phonebook with functions for adding, deleting, and searching contacts. It reminded me how useful dictionaries and data structures can be.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;At the same time, I&amp;rsquo;m preparing for a calculus colloquium — still a lot of calculations ahead.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week May 27 – June 2</title>
+      <link>https://akboyjcov.github.io/en/post/02/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://akboyjcov.github.io/en/post/02/</guid>
+      <description>&lt;h3 id=&#34;-retake-week&#34;&gt;🔹 Retake Week&lt;/h3&gt;
+&lt;p&gt;The main event of the week was the &lt;strong&gt;make-up test in Operating Systems&lt;/strong&gt;. I failed the first attempt, but this time I prepared thoroughly: reviewed topics on schedulers, file systems, and thread synchronization. Finally passed! 💪&lt;/p&gt;
+&lt;p&gt;In addition, we practiced working with the Linux terminal: explored commands like &lt;code&gt;top&lt;/code&gt;, &lt;code&gt;ps&lt;/code&gt;, &lt;code&gt;kill&lt;/code&gt;, &lt;code&gt;chmod&lt;/code&gt;. I felt the real “system magic” — now I understand how things work under the hood.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week May 20–26</title>
+      <link>https://akboyjcov.github.io/en/post/01/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://akboyjcov.github.io/en/post/01/</guid>
+      <description>&lt;h3 id=&#34;-a-week-of-discoveries&#34;&gt;🔹 A Week of Discoveries&lt;/h3&gt;
+&lt;p&gt;The first half of the week was all about &lt;strong&gt;programming practice&lt;/strong&gt;. We worked on a small Python project — a queue simulation. Focused on functions, lists, and input/output. It was a good opportunity to strengthen skills in loops and error handling.&lt;/p&gt;
+&lt;p&gt;In &lt;strong&gt;calculus classes&lt;/strong&gt;, we discussed limits and the properties of continuity. A bit challenging, but the logic of the course is slowly starting to make sense.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I realized: the more problems you solve, the less intimidating they become.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
